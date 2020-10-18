@@ -33,3 +33,4 @@ LineageOS17.1 LineageOS18.0 进化X 浩劫3.8
 刷入后果自负
 
 酷安@しいなましろ_
+https://www.coolapk.com/feed/17947566?shareKey=MDA5YzU5ZDJmNTkxNWY4YmRhNWI~&shareUid=924029&shareFrom=com.coolapk.market_10.5.3
