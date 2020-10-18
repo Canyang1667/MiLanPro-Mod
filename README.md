@@ -3,15 +3,21 @@
 
 1.类原生直接调用可变版(Variable Font)小米兰亭Pro
 ![image](https://github.com/Canyang1667/MiLanProMod/blob/main/image/Aosp.png)
+
 Los系统设置
+
 ![image](https://github.com/Canyang1667/MiLanProMod/blob/main/image/Aosp_1.png)
+
 Los系统设置
+
 ![image](https://github.com/Canyang1667/MiLanProMod/blob/main/image/Aosp_NeteaseMusic.png)
+
 Los使用网易云音乐
 
 2.MIUI全局小米兰亭Pro，包括Webview
 
 ![image](https://github.com/Canyang1667/MiLanProMod/blob/main/image/MIUI_WebView.jpg)
+
 Via浏览器
 
 两个版本都是稍微加粗的，
