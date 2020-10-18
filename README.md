@@ -1,4 +1,5 @@
 # MiLanPro-Mod
+此项目为Magisk模块
 1.类原生直接调用可变版小米兰亭Pro
 ![image](https://github.com/Canyang1667/MiLanProMod/blob/main/image/Aosp.png)
 
