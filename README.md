@@ -1,16 +1,18 @@
-# MiLanProMod-Magisk
+# MiLanProMod
 此项目为Magisk模块
 
-1.类原生直接调用可变版小米兰亭Pro
+1.类原生直接调用可变版(Variable Font)小米兰亭Pro
 ![image](https://github.com/Canyang1667/MiLanProMod/blob/main/image/Aosp.png)
-
+Los系统设置
 ![image](https://github.com/Canyang1667/MiLanProMod/blob/main/image/Aosp_1.png)
-
+Los系统设置
 ![image](https://github.com/Canyang1667/MiLanProMod/blob/main/image/Aosp_NeteaseMusic.png)
+Los使用网易云音乐
 
-2.MIUI全局小米兰亭，包括Webview
+2.MIUI全局小米兰亭Pro，包括Webview
 
 ![image](https://github.com/Canyang1667/MiLanProMod/blob/main/image/MIUI_WebView.jpg)
+Via浏览器
 
 两个版本都是稍微加粗的，
 部分字符因小米兰亭没有适配无法显示，
