@@ -3,7 +3,7 @@
 
 1.类原生直接调用可变版(Variable Font)小米兰亭Pro
 
-Lineage OS18.1
+LineageOS 18.1
 ![image](https://github.com/Canyang1667/MiLanProMod/blob/main/image/los1.png)
 ![image](https://github.com/Canyang1667/MiLanProMod/blob/main/image/los2.png)
 ![image](https://github.com/Canyang1667/MiLanProMod/blob/main/image/los3.png)
