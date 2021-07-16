@@ -24,14 +24,14 @@ Via浏览器
 
 MiLanPro_AOSP和MiLanPro_MIUI都是加粗的
 Mono字体改为Ubuntu Mono
-MiLanPro_AOSP Original Edition使用MIUI默认逻辑，非全局
 MIUI系统建议把系统自带的粗细调节拉到最粗
 部分字符因小米兰亭没有适配无法显示
-少数应用没有覆盖
+
+说是全局，实际上还是有少数应用没有覆盖
 
 AOSP模块在
 LineageOS17.1 LineageOS18.0 LineageOS18.1 进化X 浩劫3.8
-上正常使用的
+上可以正常使用
 
 使用方法：
 下载仓库内对应的zip包使用面具刷入 重启生效
