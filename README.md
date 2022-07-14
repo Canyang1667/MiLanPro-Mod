@@ -3,6 +3,9 @@
 
 类原生直接调用可变版(Variable Font)小米兰亭Pro
 
+![image](https://github.com/Flicker372/MiLanProMod/blob/main/image/Screenshot_20220714-164441_Via.png)
+字体字重测试 https://font.yukonga.top/
+
 LineageOS 18.1
 ![image](https://github.com/Flicker372/MiLanProMod/blob/main/image/los1.png)
 ![image](https://github.com/Flicker372/MiLanProMod/blob/main/image/los2.png)
